@@ -1,0 +1,8 @@
+# mecabに辞書追加
+
+## ユーザ辞書への追加
+- カスタム辞書を作成する
+	- https://taku910.github.io/mecab/dic.html
+		- ユーザ辞書への追加項目を参考
+- カスタム辞書を追加する
+	- `sudo vi /etc/mecabrc`の`userdic`に.dicのフルパスを指定する。

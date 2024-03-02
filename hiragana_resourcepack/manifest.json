@@ -1,0 +1,17 @@
+﻿{
+    "format_version": 1,
+    "header": {
+        "name": "hiragana_resourcepack",
+        "description": "ひらがな表示。マイクラをひらがなで表示する。ベース：https://github.com/Mojang/bedrock-samples/releases/tag/v1.20.60.4",
+        "uuid": "6d099179-a74b-48f2-b9bd-fdae87fe48e6",
+        "version": [0, 0, 1]
+    },
+    "modules": [
+        {
+            "description": "ひらがな表示。マイクラをひらがなで表示する。ベース：https://github.com/Mojang/bedrock-samples/releases/tag/v1.20.60.4",
+            "type": "resources",
+            "uuid": "01d7bccb-f50a-485e-9ead-94865e0f7826",
+            "version": [0, 0, 1]
+        }
+    ]
+}

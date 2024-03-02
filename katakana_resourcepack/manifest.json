@@ -1,0 +1,17 @@
+﻿{
+    "format_version": 1,
+    "header": {
+        "name": "katakana_resourcepack",
+        "description": "カタカナ表示。マイクラをカタカナで表示する。ベース：https://github.com/Mojang/bedrock-samples/releases/tag/v1.20.60.4",
+        "uuid": "fba39b87-4c7b-4552-af52-cd0e9dff830f",
+        "version": [0, 0, 1]
+    },
+    "modules": [
+        {
+            "description": "カタカナ表示。マイクラをカタカナで表示する。ベース：https://github.com/Mojang/bedrock-samples/releases/tag/v1.20.60.4",
+            "type": "resources",
+            "uuid": "ebfa8e25-d143-46e2-b758-a5fb2aae0f51",
+            "version": [0, 0, 1]
+        }
+    ]
+}
